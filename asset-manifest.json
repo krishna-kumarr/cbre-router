@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.6a8a4648.css",
-    "main.js": "/my-app/static/js/main.2af1f829.js",
-    "index.html": "/my-app/index.html",
-    "main.6a8a4648.css.map": "/my-app/static/css/main.6a8a4648.css.map",
-    "main.2af1f829.js.map": "/my-app/static/js/main.2af1f829.js.map"
+    "main.css": "/cbre-router/static/css/main.6a8a4648.css",
+    "main.js": "/cbre-router/static/js/main.13ca6683.js",
+    "index.html": "/cbre-router/index.html",
+    "main.6a8a4648.css.map": "/cbre-router/static/css/main.6a8a4648.css.map",
+    "main.13ca6683.js.map": "/cbre-router/static/js/main.13ca6683.js.map"
   },
   "entrypoints": [
     "static/css/main.6a8a4648.css",
-    "static/js/main.2af1f829.js"
+    "static/js/main.13ca6683.js"
   ]
 }
